@@ -1,0 +1,9 @@
+com\koerber\inventory\entity\InventoryBatch.class
+com\koerber\inventory\InventoryServiceApplication.class
+com\koerber\inventory\factory\DefaultInventoryHandler.class
+com\koerber\inventory\controller\InventoryController.class
+com\koerber\inventory\service\InventoryService.class
+com\koerber\inventory\entity\InventoryBatch$InventoryBatchBuilder.class
+com\koerber\inventory\factory\InventoryHandler.class
+com\koerber\inventory\repository\InventoryBatchRepository.class
+com\koerber\inventory\factory\InventoryFactory.class

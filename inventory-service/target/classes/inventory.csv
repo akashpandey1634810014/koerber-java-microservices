@@ -1,0 +1,6 @@
+batch_id,product_id,product_name,quantity,expiry_date
+1,1001,Laptop,68,2026-06-25
+2,1005,Smartwatch,52,2026-05-30
+3,1004,Headphones,20,2026-08-12
+4,1003,Tablet,35,2026-09-03
+5,1005,Smartwatch,39,2026-03-31
