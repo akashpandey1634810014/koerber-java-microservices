@@ -198,7 +198,3 @@ Password: (empty)
 Akash Pandey
 Java Backend Developer
 
-
-Review your GitHub repo link once pushed
-
-Just tell me 👍
